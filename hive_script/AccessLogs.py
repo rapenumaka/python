@@ -7,11 +7,11 @@ from elasticsearch import helpers, Elasticsearch
 from elasticsearch.helpers import bulk
 import argparse
 
-host_name = "macquarie-dev-nn.dev.digitalreasoning.com"
+host_name = 
 port = 10001
-username = "synthesys"
-elastic_url = 'http://macquarie-dev-es-data-0.dev.digitalreasoning.com:9200'
-elastic_schema ='building_access_multiple_alerts'
+username = 
+elastic_url = 
+elastic_schema =
 
 
 
